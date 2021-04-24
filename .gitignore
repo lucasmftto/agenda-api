@@ -20,6 +20,8 @@ target/*
 /target/classes/*
 bin/
 .classpath
+/.mvn/*
+.mvn/*
 
 ### IntelliJ IDEA ###
 .idea
